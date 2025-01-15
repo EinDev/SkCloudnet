@@ -35,3 +35,4 @@ jobs:
         with:
           name: SkCloudnet-Dev-Build [CLICK TO DOWNLOAD]
           path: build/libs/SkCloudnet-*.jar
+
